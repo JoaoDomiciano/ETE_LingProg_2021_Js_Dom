@@ -22,4 +22,4 @@
     }
 
     novaTarefa.addEventListener('click', criarTarefa)
-})
+})()
